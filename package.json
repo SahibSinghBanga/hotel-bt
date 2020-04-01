@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "name": "hotel_website",
+  "version": "1.0.0",
+  "main": "index.js", 
+  "homepage":"https://SahibSinghBanga.github.io/hotel-bt",
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahibSinghBanga/hotel-bt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahibSinghBanga/hotel-bt/issues"
+  },
+  "description": ""
+}
